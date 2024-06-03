@@ -16,13 +16,6 @@ This project comprises two microservices: auth-service and user-service. The for
 - [Dependencies](#dependencies)
 - [Troubleshooting](#troubleshooting)
 
-## Overview
-
-- **auth-service:** Responsible for user authentication.
-- **user-service:** Manages user profiles and addresses.
-- **MongoDB:** Stores user data.
-- **Moleculer:** Microservices framework for Node.js.
-
 ## Architecture
 
 The project follows a microservices architecture:
